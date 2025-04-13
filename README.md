@@ -12,12 +12,12 @@ To run this project, you will need to add the following environment variables to
   PREFIX=!
 ```
 
-### Examplde de `config.json`
+### Example de `config.json`
 
 ```config.json
 {
   "token": "your-token",
-  "prefix: "!"
+  "prefix: "your-prefix"
 }
 ```
 
