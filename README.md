@@ -17,7 +17,7 @@ To run this project, you will need to add the following environment variables to
 ```config.json
 {
   "token": "your-token",
-  "prefix: "your-prefix"
+  "prefix": "your-prefix"
 }
 ```
 
