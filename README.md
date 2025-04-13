@@ -4,7 +4,6 @@ To run this project, you will need to add the following environment variables to
 
 `TOKEN` = Your discord bot token\
 `PREFIX` = Prefix that your bot will use to respond\
-`MAIN_GUILD_ID` = Server ID that slash commands will be added to
 
 ### Example de `.env`
 
